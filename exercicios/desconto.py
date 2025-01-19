@@ -1,4 +1,4 @@
-produto = float(input("Qual o valor do produto"))
+produto = float(input("Qual o valor do produto ?"))
 
 if produto <= 100:
     desconto = produto * 0.05
